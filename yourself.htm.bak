@@ -16,7 +16,7 @@
 </div>
 <div id="nav">
     <ul>
-    <li><a href="Assignment.htm">Valorant &#10067;</a>
+    <li><a href="index.htm">Valorant &#10067;</a>
     </li>
         <li><a href="agents.htm">Agents & Maps &#128506;&#65039;</a>
     </li>
@@ -81,6 +81,7 @@
   
   <br><br>
  <input type="submit" value="Submit">
+ <a href ="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Submit</a>
  
 
  </form>

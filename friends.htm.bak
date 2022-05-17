@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VALULRANT</title>  
+<link href="Style9.css" rel="stylesheet">
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head> 
+<body>
+<div id="main">
+<div id="header">
+<h1>VALULRANT</h1>
+</div>
+<div id="nav">
+    <ul>
+    <li><a href="Assignment.htm">Valorant &#10067;</a>
+    </li>
+        <li><a href="agents.htm">Agents & Maps &#128506;&#65039;</a>
+    </li>
+        <li><a href="skins.htm">Weapons & Skins &#128299;</a>
+    </li> 
+		<li><a href="pros.htm">Top NA Players &#129351;</a>
+    </li>
+        <li><a href="yourself.htm">Info (&#8505;&#65039)</a>
+    </li>
+	<li><a href="friends.htm">My Friends(not really)&#128128 &#128128 &#128128</a>
+    </li>
+	
+    </ul>
+    </div>
+	<br><br>
+	
+	
+	
+<p>HELLO, thank you for taking the time to click on this useless tab to visit &#128128(dont click the audio) </p>
+<br>
+<img src="dont.jpg" width="250" 
+     height="250"/>
+<img src="sponge.png" width="250" 
+     height="250"/>
+	 <br>
+<audio controls>
+  <source src="oof.ogg" type="audio/ogg">
+  <source src="oof.mp3" type="audio/mpeg">
+</audio>
+<br><br>
+<div>
+<div class="row">
+
+
+  <div class="column">
+    <img src="peter.png" alt="Peter" style="width:100%" height="auto">
+  </div>
+  <div class="column">
+    <img src="meme.jpg" alt="Meme" style="width:100%" heigh="auto">
+  </div>
+
+<audio controls>
+  <source src="why.ogg" type="audio/ogg">
+  <source src="why.mp3" type="audio/mpeg">
+</audio>
+
+
+
+
+
+
+
+<br><br>
+<p>I specialise in nothing.The jack of all trades, master of none, so dis lil section is dedicated to my valulrant friends (W friend) - and by that, I mean me, and by me, I mean my friends. ;D</p>
+<br>
+<table>
+
+<tr>
+<td>Nickname </td>
+<td>IGN (In-Game Name)  </td>
+<td>Main Agent  </td>
+<td>Game Sense</td>
+<td>Movement</td>
+<td>Aim Accuracy</td>
+<td>Specialty</td>
+<td>Tiktok (Val Clips)</td>
+</tr>
+
+<tr>
+<td>Baim (Buku Harian Baim) </td>
+<td>Ris8590  </td>
+<td>Killjoy <img src="kj.png" width="200" 
+     height="auto"/> </td>
+<td><img src="isleep.jpg" width="200" 
+     height="auto"/></td>
+<td><img src="better.jfif" width="200" 
+     height="auto"/></td>
+<td><img src="good.gif" alt="good" width="200" height="auto"><p>*depends on the time,days, room temperature</p></td>
+<td><img src="cringejoy.jpg" width="200" 
+     height="auto"/</td>
+<td><a href ="https://www.tiktok.com/@ahmadfaris076?lang=en">ahmadfaris076</a><p>*Waiting for 1st clip</p></td>
+</tr>
+
+<tr>
+<td>Wa² (zainal) </td>
+<td>Foxayen  </td>
+<td>Viper <img src="vip.png" width="200" 
+     height="auto"/></td>
+<td><img src="notbad.png" width="200" 
+     height="auto"/></td>
+<td><img src="strive.jpg" width="200" 
+     height="auto"/></td>
+<td><img src="monitor.png" width="200" 
+     height="auto"/><p>*plays with a turned off monitor</p></td>
+<td><img src="nein.jpg" width="200" 
+     height="auto"/></td>
+<td><a href ="https://www.tiktok.com/@bbang__0?lang=en">bbang__0</a><br><p>*Famous </p></td>
+</tr>
+
+<tr>
+<td>Yus (uwek2 jangan bodo) </td>
+<td>latte  </td>
+<td>Raze <img src="raze.png" width="200" 
+     height="auto"/> </td>
+<td><img src="mid.jpg" width="200" 
+     height="auto"/></td>
+<td><img src="mid.jpg" width="200" 
+     height="auto"/></td>
+<td><img src="mid.jpg" width="200" 
+     height="auto"/><p>*m i d</p></td>
+<td><img src="swear.gif" alt="swear" width="200" height="auto"></td>
+<td><a href ="https://www.tiktok.com/@latte__01?lang=en">latte__01</a><p>*Up-and-coming </p></td>
+</tr>
+
+</table>
+<br><br>
+
+<p>*all jokes aside tho, i like my friends(some are dumb)and playing games with them no matter the game cuz I know we're all going to have a g00d time(not being held at gun point) - not even trolling no kap. These r jokes. Hope I didnt offend anyone :D (ur a betch if u r tho). uh thanks for putting up with my bs. Lets keep clicking some heads together. Eskeetttittt. <i> sincerely - joe mama</i> </p>
+
+<br>
+<img src="buzz.jpg" width="auto" 
+     height="auto"/>
+<br><br>
+<img src="gordon.jfif" width="auto" 
+     height="auto"/>
+	 
+<img src="ramsey.jpg" width="250" 
+     height="auto"/>
+	 <br><br>
+<img src="fiend.jpg" width="auto" 
+     height="auto"/>
+
+<br><br>
+<img src="will.jfif" width="auto" 
+     height="auto"/>	 
+	 
+<br><br>
+<label for="rate">Rate your experience playing Valorant with me (Khairil): </label>
+  <select name="rate" id="rate">
+    <option value="ra"> &#11088; &#11088; &#11088; &#11088; &#11088;</option>
+    <option value="t">&#11088; &#11088; &#11088; &#11088; &#11088;</option>
+    <option value="e">&#11088; &#11088; &#11088; &#11088; &#11088;</option>
+  </select>
+  <br><br><br>
+ <img src="trick.jfif" width="500" 
+     height="352"/>
+	 
+	 <img src="darth.jpg" width="500" 
+     height="352"/>
+	 
+	 <br><br>
+<img src="pingu.jpg" width="500" 
+     height="352"/>
+	 
+	 <img src="scroll.jpg" width="500" 
+     height="352"/>
+	 
+
+<br><br><br><br>
+<h1>THE END ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</h1>
+<img src="jackie.jfif" width="auto" 
+     height="250"/>
+	 
+	 
+	 
+	 <br><br>
+<img src="michael.jpg" width="auto" 
+     height="auto"/>
+
+
+<br><br>
+<img src="lord.jpg" width="auto" 
+     height="auto"/>
+	 
+	 <br><br>
+<img src="assign.png" width="auto" 
+     height="auto"/>
+
+<p>Turn the volume up for the audio below</p>
+
+<audio controls>
+  <source src="siu.ogg" type="audio/ogg">
+  <source src="siu.mp3" type="audio/mpeg">
+</audio>
+<br>
+
+<br><br>
+<img src="source.jpg" width="auto" 
+     height="auto"/>
+	 
+
+	 
+

@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Valorant Skin Collection</title>  
+<link href="Style9.css" rel="stylesheet">
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head> 
+<body>
+<div id="main">
+<div id="header">
+<h1>My Valorant Skin Collection</h1>
+</div>
+<div id="nav">
+    <ul>
+    <li><a href="Assignment.htm">Valorant</a>
+    </li>
+        <li><a href="agents.htm">Agents & Maps</a>
+    </li>
+        <li><a href="smgs.html">SMGS</a>
+    </li> 
+        <li><a href="melee.html">Melee</a>
+    </li>
+       
+    
+    
+    </ul>
+    </div>

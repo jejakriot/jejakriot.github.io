@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VALULRANT</title>  
+<link href="Style9.css" rel="stylesheet">
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head> 
+<body>
+<div id="main">
+<div id="header">
+<h1>VALULRANT</h1>
+</div>
+<div id="nav">
+    <ul>
+    <li><a href="Assignment.htm">Valorant &#10067;</a>
+    </li>
+        <li><a href="agents.htm">Agents & Maps &#128506;&#65039;</a>
+    </li>
+        <li><a href="skins.htm">Weapons & Skins &#128299;</a>
+    </li> 
+		<li><a href="pros.htm">Top NA Players &#129351;</a>
+    </li>
+        <li><a href="yourself.htm">Info (&#8505;&#65039)</a>
+    </li>
+	<li><a href="friends.htm">My Friends(not really)&#128128 &#128128 &#128128</a>
+    </li>
+      
+    
+    </ul>
+    </div>
+	<br><br>
+	
+<form action="action_page.php" method="post">
+  <label for="fname">IGN [In-Game Name] (something c00l)</label><br><br>
+  <input type="text" id="username" name="username" value="not drinks like'latte'&#128556;lmfa0"><br><br>
+  
+<label for="comment">Comment your favourite skinline:</label><br><br>
+ <textarea id="favskin" name="favskin" rows="4" cols="50">
+ why?(ONI superior btw)
+  </textarea>
+  
+  
+  <br><br>
+  <h1> Vandal vs Phantom </h1>
+  <br>
+ <input type="checkbox" id="Rifle1" name="Rifle1" value="Vandal">
+  <label for="Rifle1"> Vandal User</label><br>
+  <input type="checkbox" id="Rifle2" name="Rifle2" value="Phantom">
+  <label for="Rifle2"> Phantom User</label><br>
+  
+  
+  <br><br>
+  <h1> Spectre vs Ares </h1>
+  <input type="radio" id="smg1" name="smg10" value="Spectre">
+  <label for="smg1"> Spectre User</label><br>
+  <input type="radio" id="smg2" name="smg10" value="Ares">
+  <label for="smg2"> Ares User</label><br>
+  
+  <br><br>
+  <br><br>
+  <label for="spec">PC Spec :</label>
+  <select name="spec" id="spec">
+    <option value="7"> Windows 7/8/10 (64-bit) 4GB RAM  2GB VRAM</option>
+    <option value="8">Windows 7/8/10 (64-bit) 8GB RAM  4GB VRAM</option>
+    <option value="10">Windows 7/8/10 (64-bit) 12GB RAM  8GB VRAM</option>
+  </select>
+  
+  <br><br>
+  <label for="star">Rate your Valorant experience:</label>
+  <select name="star" id="star">
+    <option value="val"> &#11088;</option>
+    <option value="lol">&#11088; &#11088;</option>
+    <option value="run">&#11088; &#11088; &#11088;</option>
+  </select>
+  
+  
+  
+  <br><br>
+ <input type="submit" value="Submit">
+ 
+
+ </form>
+ 

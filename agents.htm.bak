@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>VALULRANT</title>  
+<link href="Style9.css" rel="stylesheet">
+
+ 
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head> 
+<body>
+<div id="main">
+<div id="header">
+<h1>VALULRANT</h1>
+</div>
+<div id="nav">
+    <ul>
+    <li><a href="Assignment.htm">Valorant &#10067;</a>
+    </li>
+        <li><a href="agents.htm">Agents & Maps &#128506;&#65039;</a>
+    </li>
+        <li><a href="skins.htm">Weapons & Skins &#128299;</a>
+    </li> 
+		<li><a href="pros.htm">Top NA Players &#129351;</a>
+    </li>
+        <li><a href="yourself.htm">Info (&#8505;&#65039)</a>
+    </li>
+	<li><a href="friends.htm">My Friends(not really)&#128128 &#128128 &#128128</a>
+    </li>
+       
+    
+    </ul>
+    </div>
+	
+	
+<h2>Valorant Map List</h2>
+
+<ol>
+<li>Ascent</li>
+<li>Bind</li>
+<li>Breeze</li>
+<li>Fracture</li>
+<li>Haven</li>
+<li>Icebox</li>
+<li>Split</li>
+</ol>
+
+
+
+  <img src="ascent.jpg" width="600" 
+     height="auto"/>
+	  
+
+  <img src="bind.jpg" width="600" 
+     height="auto"/>
+	 
+
+  <img src="breeze.jpg" width="600" 
+     height="auto"/>
+	
+
+  <img src="fracture.jpg" width="600" 
+     height="auto"/>
+	 
+
+  <img src="haven.jpg" width="600" 
+     height="auto"/>	
+
+
+  <img src="icebox.jpg" width="600" 
+     height="auto"/>
+
+
+  <img src="split.jpg" width="1200" 
+     height="auto"/>	 
+	 <br><br>
+	 <br><br>
+<h2> Valorant Agents </h2>
+<table>
+
+<tr>
+<td>No.</td>
+<td>Agent  </td>
+<td>Type </td>
+<td>Origin</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Astra  </td>
+<td>Controller </td>
+<td>Ghana</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Breach </td>
+<td>Initiator </td>
+<td>Sweden</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Brimstone  </td>
+<td>Controller </td>
+<td>United States</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Chamber  </td>
+<td>Sentinel </td>
+<td>France</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Cypher </td>
+<td>Sentinel </td>
+<td>Morocco</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Fade  </td>
+<td>Initiator </td>
+<td>Turkey</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Jett  </td>
+<td>Duelist </td>
+<td>South Korea</td>
+</tr>
+
+<tr>
+<td>8</td>
+<td>Kay/O  </td>
+<td>Initiator </td>
+<td>Alternate Timeline Earth</td>
+</tr>
+
+<tr>
+<td>9</td>
+<td>Killjoy  </td>
+<td>Sentinel </td>
+<td>Germany</td>
+</tr>
+
+<tr>
+<td>10</td>
+<td>Neon  </td>
+<td>Duelist </td>
+<td>Phillipiness</td>
+</tr>
+
+<tr>
+<td>11</td>
+<td>Omen  </td>
+<td>Controller </td>
+<td>Unknown</td>
+</tr>
+
+<tr>
+<td>12</td>
+<td>Phoenix  </td>
+<td>Duelist </td>
+<td>United Kingdom</td>
+</tr>
+
+<tr>
+<td>13</td>
+<td>Raze  </td>
+<td>Duelist </td>
+<td>Brazil</td>
+</tr>
+
+<tr>
+<td>14</td>
+<td>Reyna  </td>
+<td>Duelist </td>
+<td>Mexico</td>
+</tr>
+
+<tr>
+<td>15</td>
+<td>Sage  </td>
+<td>Sentinel </td>
+<td>China</td>
+</tr>
+
+<tr>
+<td>16</td>
+<td>Skye  </td>
+<td>Initiator </td>
+<td>Australia</td>
+</tr>
+<tr>
+
+<td>17</td>
+<td>Sova  </td>
+<td>Initiator </td>
+<td>Russia</td>
+</tr>
+
+<tr>
+<td>18</td>
+<td>Viper  </td>
+<td>Controller </td>
+<td>United States</td>
+</tr>
+
+<tr>
+<td>19</td>
+<td>Yoru  </td>
+<td>Duelist </td>
+<td>Japan</td>
+</tr>
+<br>
+<img src="allagent.png" width="1920" 
+     height="auto"/>
+	 
+<br><br>
+
+
+	 

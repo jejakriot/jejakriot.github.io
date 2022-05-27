@@ -76,12 +76,17 @@
     <option value="lol">&#11088; &#11088;</option>
     <option value="run">&#11088; &#11088; &#11088;</option>
   </select>
-  
-  
-  
   <br><br>
- 
- <a href ="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Submit</a>
+  
+  <p>*if the first submit button is error go back, click the second one..</p>
+  
+  
+ <form action="/action_page.php">
+ <input type="submit" value="Submit">
+</form> 
+
+<br>
+ <a href ="https://www.youtube.com/watch?v=xvFZjo5PgG0">Submit</a>
  
 
  </form>
